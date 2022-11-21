@@ -1,0 +1,20 @@
+            7         
+           / \
+          /   \
+         5     8     Düğüm satırı
+        / \     \
+       /   \     \
+      1     6     9    Düğüm Satırı
+     / \
+    /   \
+   0     3           Düğüm Satırı
+        / \
+       /   \
+      2     4          
+      
+      
+      
+      Bu kısımda root kısmını yada bağlatı noktasını 7 seçtim . rootun sağında kalanlar sayıdan büyük solubda kalanlar ise sayıdan küçük olacak şekilde 
+      sıralanırlar. 2. adımda ise yeni bir root seçtim  bu 5 olacak şekilde yapıldı . kalan kısımlar ise aynı şekilde mantığı ilerleterek sürekli 
+      elde edilen vede kalan sayıları azaltarak gitmek . azaldığı içinde  hem kıyas daha kolay oluyor hemde bu sisteme sayı ekleme veya sayı çıkarma veya 
+      bu sistemden sayı bulma daha kolay oluyor 
